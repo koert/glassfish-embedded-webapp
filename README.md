@@ -1,0 +1,2 @@
+# glassfish-embedded-webapp
+Example setup of embedded Glassfish server with Hello world servlet
